@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🎯 Embedded Systems Engineer | <br>⚡Power Electronics Enthusiast | <br>Vector India Trainee| 
+🎯 Embedded Systems Engineer | <br>⚡Power Electronics Enthusiast | <br> Vector India Trainee| 
 
 
 ## 🌐 Socials:
