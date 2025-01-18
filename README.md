@@ -1,4 +1,5 @@
-![MasterHead](https://github.com/user-attachments/assets/0c2d99f9-9037-47b2-9790-d68b6c023d84)
+
+![MasterHead](https://github.com/user-attachments/assets/6fd16b02-862c-42ed-8aaf-79ae408ec67e)
 # 💫 About Me:
 🎯 Embedded Systems Engineer | <br>⚡Power Electronics Enthusiast | <br>💡Vector India Trainee| 
 
