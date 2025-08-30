@@ -1,7 +1,11 @@
 
 ![MasterHead](https://github.com/user-attachments/assets/6fd16b02-862c-42ed-8aaf-79ae408ec67e)
 # 💫 About Me:
-🎯 Embedded Systems Engineer | <br>⚡Power Electronics Enthusiast | <br>💡Vector India Trainee| 
+🎯 Embedded Systems Engineer |Embedded Systems Engineer | Power Electronics Enthusiast | Vector India Trainee  
+Passionate about designing reliable, real-time, and power-efficient firmware for safety-critical systems. Skilled in Embedded C, ARM microcontrollers, RTOS, and power management. Open to IoT, automotive, and renewable energy projects.
+
+
+
 
 
 ## 🌐 Socials:
