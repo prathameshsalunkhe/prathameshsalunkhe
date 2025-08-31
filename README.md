@@ -26,7 +26,7 @@ This repository showcases my projects in **C, C++, ARM, CAN, and IoT**, demonstr
 | **C++ Programming Examples** | [cpp](https://github.com/prathameshsalunkhe/cpp) | Object-oriented C++ examples covering inheritance, polymorphism, templates, file handling, and STL usage. Focused on real-world problem-solving. |
 | **ARM Cortex-M Examples** | [arm](https://github.com/prathameshsalunkhe/arm) | Embedded C code for ARM microcontrollers demonstrating GPIO, UART, SPI, I2C, ADC, LEDs, LCDs, and switch interfacing. |
 | **CAN Dashboard** | [CAN-Dashboard](https://github.com/prathameshsalunkhe/CAN-Dashboard) | GUI dashboard for CAN bus monitoring and control. Demonstrates automotive communication and data visualization. |
-| **IoT Dual Mode Relay Control** | [iot-dual-mode-relay-control](https://github.com/prathameshsalunkhe/CAN-Dashboard) | ESP12F project demonstrating MQTT and HTTP-based relay control for smart home applications. Dual-mode control for flexibility. |
+| **IoT Dual Mode Relay Control** | [iot-dual-mode-relay-control](https://github.com/prathameshsalunkhe/IoT-Relay.git) | ESP12F project demonstrating MQTT and HTTP-based relay control for smart home applications. Dual-mode control for flexibility. |
 
 ---
 
