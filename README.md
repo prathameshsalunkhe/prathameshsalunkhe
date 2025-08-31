@@ -1,8 +1,59 @@
 
 ![MasterHead](https://github.com/user-attachments/assets/6fd16b02-862c-42ed-8aaf-79ae408ec67e)
-# 💫 About Me:
-🎯 Embedded Systems Engineer |Embedded Systems Engineer | Power Electronics Enthusiast | Vector India Trainee  
-Passionate about designing reliable, real-time, and power-efficient firmware for safety-critical systems. Skilled in Embedded C, ARM microcontrollers, RTOS, and power management. Open to IoT, automotive, and renewable energy projects.
+# Prathamesh Salunkhe – Embedded Systems & IoT Portfolio ⚡
+
+Welcome to my GitHub portfolio!  
+This repository showcases my projects in **C, C++, ARM, CAN, and IoT**, demonstrating practical embedded systems development skills, firmware programming, and hands-on hardware interfacing.
+
+---
+
+## 🛠️ Technologies & Skills
+
+- **Programming Languages:** C, C++, Embedded C, ARM Assembly  
+- **Embedded Platforms:** ARM Cortex-M, STM32, LPC  
+- **Tools & IDEs:** GCC, Keil uVision, GDB, JTAG, VS Code, Proteus  
+- **Protocols & Interfaces:** UART, SPI, I2C, ADC, CAN  
+- **IoT & Networking:** ESP8266/ESP12F, MQTT, HTTP  
+- **Other:** Linux, Git, Makefiles, Debugging, Firmware Optimization  
+
+---
+
+## 📂 Projects Overview
+
+| Project Name | Repository Link | Description |
+|--------------|----------------|-------------|
+| **C Programming Examples** | [Ccode](https://github.com/prathameshsalunkhe/Ccode) | Modular C programs demonstrating pointers, structures, file I/O, bitwise operations, and data structures. Perfect for embedded systems foundations. |
+| **C++ Programming Examples** | [cpp](https://github.com/prathameshsalunkhe/cpp) | Object-oriented C++ examples covering inheritance, polymorphism, templates, file handling, and STL usage. Focused on real-world problem-solving. |
+| **ARM Cortex-M Examples** | [arm](https://github.com/prathameshsalunkhe/arm) | Embedded C code for ARM microcontrollers demonstrating GPIO, UART, SPI, I2C, ADC, LEDs, LCDs, and switch interfacing. |
+| **CAN Dashboard** | [CAN-Dashboard](https://github.com/prathameshsalunkhe/CAN-Dashboard) | GUI dashboard for CAN bus monitoring and control. Demonstrates automotive communication and data visualization. |
+| **IoT Dual Mode Relay Control** | [iot-dual-mode-relay-control](https://github.com/prathameshsalunkhe/CAN-Dashboard) | ESP12F project demonstrating MQTT and HTTP-based relay control for smart home applications. Dual-mode control for flexibility. |
+
+---
+
+## 📌 Highlights
+
+- Strong foundation in **embedded systems and IoT projects**  
+- Hands-on experience with **ARM Cortex-M microcontrollers and peripherals**  
+- Practical implementation of **C/C++ fundamentals in real projects**  
+- Clear code documentation, modular design, and **Git-based version control**  
+- Prepared for **automotive, IoT, and firmware development roles**
+
+---
+
+## 🔗 Contact / Connect
+
+- **LinkedIn:** [linkedin.com/in/prathameshsalunkhe](https://www.linkedin.com/in/prathameshsalunkhe)  
+- **Email:** prathameshsalunkhe452002@gmail.com 
+
+---
+
+## 📝 Notes
+
+- All projects are **open-source** and include README and build instructions.  
+- Binaries and compiled files are excluded for repository cleanliness.  
+- Feel free to explore the repos and **fork/clone** for learning and experimentation.
+
+
 
 
 
