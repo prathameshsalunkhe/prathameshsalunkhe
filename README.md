@@ -42,7 +42,7 @@ This repository showcases my projects in **C, C++, ARM, CAN, and IoT**, demonstr
 
 ## 🔗 Contact / Connect
 
-- **LinkedIn:** [linkedin.com/in/prathameshsalunkhe](https://www.linkedin.com/in/prathameshsalunkhe)  
+- **LinkedIn:** [linkedin.com/in/prathameshsalunkhe](https://www.linkedin.com/in/prathamesh-embedded) 
 - **Email:** prathameshsalunkhe452002@gmail.com 
 
 ---
