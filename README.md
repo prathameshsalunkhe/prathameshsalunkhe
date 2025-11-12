@@ -27,6 +27,7 @@ This repository showcases my projects in **C, C++, ARM, CAN, and IoT**, demonstr
 | **ARM Cortex-M Examples** | [arm](https://github.com/prathameshsalunkhe/arm) | Embedded C code for ARM microcontrollers demonstrating GPIO, UART, SPI, I2C, ADC, LEDs, LCDs, and switch interfacing. |
 | **CAN Dashboard** | [CAN-Dashboard](https://github.com/prathameshsalunkhe/CAN-Dashboard) | GUI dashboard for CAN bus monitoring and control. Demonstrates automotive communication and data visualization. |
 | **IoT Dual Mode Relay Control** | [iot-dual-mode-relay-control](https://github.com/prathameshsalunkhe/IoT-Based-Dual-Mode-Relay-Control) | ESP12F project demonstrating MQTT and HTTP-based relay control for smart home applications. Dual-mode control for flexibility. |
+| **Data Acquisition System (RTOS-Based)** | [Data Acquisition System (RTOS-Based)](https://github.com/prathameshsalunkhe/Data-Acquisition-System-RTOS/blob/main/README.md) |This project implements a Real-Time Data Acquisition System using ARM7 (LPC2129) and RTX RTOS.The system samples analog data from sensors via ADC, processes it using multitasking under RTOS, and displays values on an LCD. |
 
 ---
 
